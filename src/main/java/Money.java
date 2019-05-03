@@ -3,6 +3,12 @@ public class Money {
     private final String currency;
 
     public Money(int amount, String currency) {
+        if(amount < 0){
+            throw new IllegalArgumentException("Illegal amount: " + amount);
+        }
+        if(currency == null || currency.isEmpty()){
+            throw new IllegalArgumentException("Illegal currency: " + currency);
+        }
         this.amount = amount;
         this.currency = currency;
     }
