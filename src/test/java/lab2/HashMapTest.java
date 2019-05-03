@@ -7,6 +7,8 @@ import java.util.Map;
 
 import static org.junit.Assert.*;
 
+// 3.11.3 HashMap
+
 public class HashMapTest {
 
     private final static String KEY_A = "objectA";
