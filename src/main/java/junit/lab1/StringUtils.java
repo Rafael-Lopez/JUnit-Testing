@@ -1,4 +1,4 @@
-package lab1;
+package junit.lab1;
 
 import java.util.ArrayList;
 import java.util.List;

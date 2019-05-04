@@ -1,3 +1,5 @@
+package junit;
+
 public class Address {
     private String address;
 

@@ -1,4 +1,4 @@
-package lab2;
+package junit.lab2;
 
 import org.junit.Before;
 import org.junit.Test;

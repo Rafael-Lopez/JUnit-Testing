@@ -1,4 +1,4 @@
-package lab3;
+package junit.lab3;
 
 import junitparams.JUnitParamsRunner;
 import junitparams.Parameters;

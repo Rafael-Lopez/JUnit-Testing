@@ -1,4 +1,4 @@
-package lab3;
+package junit.lab3;
 
 public class FootballTeam implements Comparable {
     private int wins;

@@ -1,4 +1,4 @@
-package lab5;
+package junit.lab5;
 
 public class BookingSystem {
 

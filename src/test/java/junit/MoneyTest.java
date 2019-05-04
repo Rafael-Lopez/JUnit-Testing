@@ -1,3 +1,6 @@
+package junit;
+
+import junit.Money;
 import junitparams.JUnitParamsRunner;
 import junitparams.Parameters;
 import org.junit.Test;
